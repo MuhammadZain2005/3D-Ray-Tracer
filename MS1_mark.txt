@@ -1,0 +1,35 @@
+--------------------------------------------------------------------------------
+START
+--------------------------------------------------------------------------------
+Check script failed. Marking on 0%-100%
+Reason: assg_MS1 generated too much output for 14_input.txt
+--------------------------------------------------------------------------------
+Marking 'MS1'...
+Searching for test cases for: MS1
+5 test cases found for 'MS1' in '~/markcases'
+'assg_MS1' compiled successfully.
+
+Testing using '~/markcases/12_input.txt'...
+Error: 'assg_MS1' exited with non-zero code (1) unexpectedly
+
+Testing using '~/markcases/13_input.txt'...
+Success: output is correct
+No memory leaks
+Giving full marks
+
+Testing using '~/markcases/11_input.txt'...
+Success: output is correct
+No memory leaks
+Giving full marks
+
+Testing using '~/markcases/14_input.txt'...
+Error: 'assg_MS1' generated too much output.
+
+Testing using '~/markcases/15_input.txt'...
+Success: output is correct
+No memory leaks
+Giving full marks
+--------------------------------------------------------------------------------
+END: Final grade: 6/10 = 60%
+--------------------------------------------------------------------------------
+
