@@ -6,9 +6,11 @@ Designed as a clean, modular portfolio project.
 
 ---
 
-## 🗂️ Categories
+## 📸 Sample Renders
 
-`C` • `Computer Graphics` • `Ray Tracing` • `Rendering` • `Shading` • `Image Synthesis` • `PPM` • `Anti-Aliasing`
+| Example 1 | Example 2 |
+|-----------|-----------|
+| ![Example 1](assets/main.png) | ![Example 2](assets/FS11.png) |
 
 ---
 
